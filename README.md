@@ -7,6 +7,7 @@
 This service is designed to extract structured data from **official legal PDF documents**, especially those that are **unreadable or scanned** (image-based PDFs), such as files published on government and ministry websites.
 
 Many official documents cannot be processed using traditional text extraction or OCR tools. This service solves that problem by using **visual-based parsing** and a robust ingestion pipeline.
+![Uploading image.png…]()
 
 ---
 
